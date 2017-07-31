@@ -6,8 +6,8 @@ The game is a simple text adventure where the player walks through
 the environment.  The goal of the game is to walk around the world
 and gather treasure.  
 
-In order to move type the first character for the direction 
-(N for north, S for South, E for East, W for West) and press <enter>.
+In order to move, type the first character for the direction 
+(N for north, S for South, E for East, W for West) and press `enter`.
 
 Sometimes you may meet a troll or killer bees.  They may even kill you.
 
@@ -27,7 +27,7 @@ and continue down the questions.
 
 # The exercises
 
-Q1. Make the Encouters class testable.
+Q1. Make the `Encouters` class testable.
 
 - Think about the core problem(s) and determine how to change the design to
   test this.
@@ -36,7 +36,7 @@ Q1. Make the Encouters class testable.
 - Make the test reliable (feel free to change the design).
 - Add more tests for the other flows in this method.
 
-Q2. Make the Direction class testable.
+Q2. Make the `Direction` class testable.
 
 - Think about the core problem(s) and determine how to change the design to
   test this.
@@ -44,7 +44,7 @@ Q2. Make the Direction class testable.
 - Make the test reliable (feel free to change the design).
 - Add more tests for the other flows in this method.
 
-Q3. Make the Game class testable.
+Q3. Make the `Game` class testable.
 
 - Should we test the game?  Is an integration test viable?
 - What are we trying to test if we test game?
