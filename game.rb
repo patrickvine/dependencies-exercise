@@ -5,9 +5,9 @@ class Game
   def run
     puts "Press enter to start playing..."
     STDIN.gets
-    puts "You have 2 minutes..."
+    puts "You have 1 minute..."
 
-    end_time = Time.now + 5 # 2 minutes
+    end_time = Time.now + 60 # 1 minute
     treasure = 0
     current_surroundings = 'in a clearing in a forest'
     while(end_time > Time.now) do

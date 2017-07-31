@@ -4,7 +4,7 @@ Pull the repo.  Play the game by running `ruby game.rb`.
 
 The game is a simple text adventure where the player walks through
 the environment.  The goal is to gather the most treasure.  The game
-is a demo version and hence closes after 2 minutes.
+is a demo version and hence closes after 1 minute.
 
 # Familiarise yourself with the code.
 
