@@ -17,7 +17,7 @@ to achieve a more testable design.
 
 # The exercises
 
-2. Make encouters testable.
+Q1. Make encouters testable.
 
 - Think about the core problem(s) and determine how to change the design to
   test this.
@@ -26,7 +26,7 @@ to achieve a more testable design.
 - Make the test reliable (feel free to change the design).
 - Add more tests for the other flows in this method.
 
-3. Make direction testable.
+Q2. Make direction testable.
 
 - Think about the core problem(s) and determine how to change the design to
   test this.
@@ -34,7 +34,7 @@ to achieve a more testable design.
 - Make the test reliable (feel free to change the design).
 - Add more tests for the other flows in this method.
 
-4. Make the game testable.
+Q3. Make the game testable.
 
 - Should we test the game?  Is an integration test viable?
 - What are we trying to test if we test game?
